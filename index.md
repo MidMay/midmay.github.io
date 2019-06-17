@@ -24,6 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+![Image](https://github.com/MidMay/midmay.github.io/images/peach-flavored-green-tea-latte.jpg "绿茶拿铁")
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
