@@ -24,9 +24,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-![Image](https://raw.githubusercontent.com/MidMay/midmay.github.io/master/images/peach-flavored-green-tea-latte.jpg)
 ```
-
+![Image](https://raw.githubusercontent.com/MidMay/midmay.github.io/master/images/peach-flavored-green-tea-latte.jpg)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
